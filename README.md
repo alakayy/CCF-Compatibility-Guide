@@ -36,7 +36,7 @@ Side Note: Give CCF priority over every mod in modloader.ini unless explicitly t
 
 
 
-2. Navigate to `GTASA LOCATION\modloader\CommunityCutsceneFixes\data\maps` and delete the `binary` and `LA` folders.
+2. Navigate to `GTASA LOCATION\modloader\CommunityCutsceneFixes\data\maps` and delete the `binary` and `LA` folders. Proper Fixes already does all of this.
 
 
 
