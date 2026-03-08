@@ -1,4 +1,4 @@
-# CCF Compat Guide by alakay
+# CCF Compatibility Guide by alakay
 
 
 
