@@ -70,7 +70,7 @@ I've heard that CCF can have some issues with Urbanize, so here's what you shoul
 
 
 
-1. Navigate to `GTASA LOCATION\modloader\Urbanize\map` and open `Loader.txt`, comment out (put a # or ; at the beginning of the line) every IPL line except for `Urbanize.IPL`, better safe than sorry and like I said before if anyone wants to test these that would be great. I use Project Props 4.0 and other map/prop mods, so it doesn't really bother me.
+Navigate to `GTASA LOCATION\modloader\Urbanize\map` and open `Loader.txt`, comment out (put a # or ; at the beginning of the line) every IPL line except for `Urbanize.IPL`, better safe than sorry and like I said before if anyone wants to test these that would be great. I use Project Props 4.0 and other map/prop mods, so it doesn't really bother me.
 
 
 
@@ -79,8 +79,7 @@ I've heard that CCF can have some issues with Urbanize, so here's what you shoul
 ## Uncompressed SFX/Original Radio Extended Compatibility
 
 
-
-1. Literally just don't install the CCF Audio, seems to work fine for me and I assume this just fixes/adds some sounds, not a huge deal. Maybe there's a way to get this to work but I haven't messed with it yet. Also increase their priority in modloader over CCF. I no longer use Uncompressed SFX though.
+Literally just don't install the CCF Audio, seems to work fine for me and I assume this just fixes/adds some sounds, not a huge deal. Maybe there's a way to get this to work but I haven't messed with it yet. Also increase their priority in modloader over CCF. I no longer use Uncompressed SFX though.
 
 
 
