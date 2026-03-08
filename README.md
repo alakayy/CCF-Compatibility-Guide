@@ -99,5 +99,5 @@ I believe I had a conflict with RVP (I used the original non-meshsmoothed versio
 
 
 
-I'm not sure if this is the same without LLP's Characters and outfits, but I had an issue where the default character models didn't have Mobile Hands after installing the character extras from CCF-Extras. Mobile Hands for default characters work, but you need to install the one from here [Download Mobile Hands from mixmods](https://www.mixmods.com.br/2015/07/personagens-de-cutscene-com-dedos-separados-mobile/) and insert it into your modloader and give it priority.
+I'm not sure if this is the same without LLP's Characters and outfits, but I had an issue where the default character models didn't have Mobile Hands after installing the character extras from CCF-Extras. Mobile Hands for default characters work, but you need to install the one from here [Download Mobile Hands from MixMods](https://www.mixmods.com.br/2015/07/personagens-de-cutscene-com-dedos-separados-mobile/) and insert it into your modloader and give it priority.
 
