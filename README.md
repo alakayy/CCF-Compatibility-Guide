@@ -97,7 +97,6 @@ I believe I had a conflict with RVP (I used the original non-meshsmoothed versio
 
 ## Side notes
 
-If you want to add cars, remove clever trams, for some reason it causes a crash after the first cutscene fades away, yyou can skip it tho and it seems to work but i dont trust it with other cutscenes, I immediately removed it just to save hassle.
+If you want to add cars, remove clever trams, for some reason it causes a crash after the first cutscene fades away, you can skip it though and it seems to work. Either way, I dont trust it with other cutscenes, so I immediately removed it just to save myself from the possible extra hassle. 
 
 I'm not sure if this is the same without LLP's Characters and outfits, but I had an issue where the default character models didn't have Mobile Hands after installing the character extras from CCF-Extras. Mobile Hands for default characters work, but you need to install the one from here [Mobile Hands from MixMods](https://www.mixmods.com.br/2015/07/personagens-de-cutscene-com-dedos-separados-mobile/) and insert it into your modloader and give it priority.
-
